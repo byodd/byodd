@@ -16,9 +16,20 @@ I'm currently a Computer Science student, passionate about coding and learning n
 ![](https://img.shields.io/badge/Code-ARMAssembly-informational?style=flat&logo=arm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
-## 🌱 I’m currently learning ...
+<img align="left" alt="C" width="26px" src="https://simpleicons.org/icons/c.svg" />
+<img align="left" alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg" />
+<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" alt="SASS" width="26px" src="https://simpleicons.org/icons/sass.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" alt="SQL" width="26px" src="https://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="Vue.js" width="26px" src="https://simpleicons.org/icons/vue-dot-js.svg" />
+<img align="left" alt="Figma" width="26px" src="https://simpleicons.org/icons/figma.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://simpleicons.org/icons/adobephotoshop.svg" />
 
-I'm currently focused on enhancing my Front-End Development skills, and at the same time, I am diving into the depths of Back-End Development to become a well-rounded Full Stack Developer.
+<br>
+<br>
 
 ## 👯 I’m looking to collaborate on ...
 
@@ -27,9 +38,3 @@ I'm open to collaborating on any projects that would require my current skill se
 ## 📫 How to reach me: 
 
 You can reach me on my email gatta.code@gmail.com or on my Twitter @yourognorthstar
-
-## 💼 Some of my projects: 
-
-In my repositories, you'll find a mix of school projects and personal ones. I try to keep them organized and well documented. Feel free to explore and give feedback.
-
-⭐️ From [Gatta](https://github.com/gattacode)
