@@ -10,14 +10,18 @@ In addition to my programming skills, I also have proficiency in design tools li
 - C
 - Java
 - Python
+- ARM Assembly
+
 - HTML
 - CSS/SASS/SCSS
 - JavaScript
-- SQL/PLSQL
-- ARM Assembly
 - Vue JS
+
+- SQL/PLSQL
+
 - Figma
-- Photoshop
+- Adobe Photoshop/After Effects/Premiere Pro
+- Clip Studio Paint
 
 
 ### How to reach me: 
