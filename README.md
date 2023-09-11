@@ -22,4 +22,4 @@ In addition to my programming skills, I also have proficiency in design tools li
 
 ### How to reach me: 
 
-You can reach me on my email gatta.code@gmail.com or on my Twitter @yourognorthstar
+You can reach me on my email gatta.code@gmail.com or on my Twitter [@spacialkid](https://twitter.com/spacialkid)
