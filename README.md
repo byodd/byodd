@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm currently a Computer Science student, passionate about coding and learning new technologies. I love challenging myself and solve complex problems.
+I'm currently a Computer Science student, passionate about coding and learning new technologies. Movies and music often inspire my tech projects.
 In addition to my programming skills, I also have proficiency in design tools like Figma and Photoshop, which enables me to bring my projects to life with a perfect blend of functionality and aesthetics.
 
 ### Technologies
@@ -12,7 +12,6 @@ In addition to my programming skills, I also have proficiency in design tools li
 - ARM Assembly
 - HTML
 - CSS
-- SASS/SCSS
 - JavaScript
 - Vue.js
 - SQL/PLSQL
@@ -26,4 +25,4 @@ In addition to my programming skills, I also have proficiency in design tools li
 
 ### How to reach me: 
 
-You can reach me on my email gatta.code@gmail.com or on my Twitter [@spacialkid](https://twitter.com/spacialkid)
+You can reach me by mail to gatta.code@gmail.com or on Twitter [@spacialkid](https://twitter.com/spacialkid)
