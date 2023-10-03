@@ -1,8 +1,6 @@
-## Hi, I'm Gatta 
+## Hello!
 
-### About Me
-
-I'm currently a Computer Science student, passionate about coding and learning new technologies. Movies and music often inspire my tech projects.
+I'm Gatta, a computer science student, passionate about coding and learning new technologies. Movies and music often inspire my tech projects.
 In addition to my programming skills, I also have proficiency in design tools like Figma and Photoshop, which enables me to bring my projects to life with a perfect blend of functionality and aesthetics.
 
 ### Technologies
@@ -25,4 +23,4 @@ In addition to my programming skills, I also have proficiency in design tools li
 
 ### How to reach me: 
 
-You can reach me by mail to gatta.code@gmail.com or on Twitter [@spacialkid](https://twitter.com/spacialkid)
+You can reach me on Linkedin [Gatta Ba](https://www.linkedin.com/in/gatta-ba-2b98a3225/) or by mail to gatta.code@gmail.com or
