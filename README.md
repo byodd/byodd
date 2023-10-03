@@ -1,7 +1,7 @@
-## Hello!
+## Hey there!
 
-I'm Gatta, a computer science student, passionate about coding and learning new technologies. Movies and music often inspire my tech projects.
-In addition to my programming skills, I also have proficiency in design tools like Figma and Photoshop, which enables me to bring my projects to life with a perfect blend of functionality and aesthetics.
+I'm Gatta and I'm passionate about coding and learning new technologies. Movies and music often inspire my tech projects.
+But I'm not just about code - I also have a knack for design, using tools like Figma and Photoshop to make sure my projects aren’t just functional, but also look good. Let’s build something cool together!
 
 ### How to reach me: 
 
