@@ -5,4 +5,4 @@ But I'm not just about code - I also have a knack for design, using tools like F
 
 ### How to reach me: 
 
-You can reach me on [Linkedin](https://www.linkedin.com/in/gatta-ba-2b98a3225/) or mail to gatta.code@gmail.com
+You can reach me on [Linkedin](https://www.linkedin.com/in/gattaba) or mail to gatta.code@gmail.com
