@@ -1,6 +1,6 @@
 ## Hey there!
 
-Hi, I'm Gatta, and I'm passionate about coding and exploring new technologies. My tech projects often find inspiration in movies and other art forms. But I'm not just about code - I also enjoy design, using tools like Figma and Photoshop to ensure my projects are not only functional but also look good. 🚀 Let’s build something great together!
+Hi, I'm Gatta, and I'm passionate about coding and exploring new technologies. But I'm not just about code - I also enjoy design, using tools like Figma and Photoshop to ensure my projects are not only functional but also look good. 🚀 Let’s build something great together!
 
 ### How to reach me: 
 
