@@ -1,6 +1,6 @@
 ## Hey there!
 
-<h3><strong><a href="https://www.gattaba.fr/" target="_blank">gattaba.fr</a></strong></h3>
+<h1><strong><a href="https://www.gattaba.fr/" target="_blank">gattaba.fr</a></strong></h1>
 
 Hi, I'm Gatta, and I'm passionate about coding and exploring new technologies. 🚀 Let’s build something great together!
 
